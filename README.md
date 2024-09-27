@@ -1,6 +1,6 @@
 # Encryption and Decryption Web App
 
-This is a simple web application for encrypting and decrypting text using a password. The application is built using Flask and the Cryptography library.
+This is a simple web application for encrypting and decrypting text using a password. The application is built using Flask and the Cryptography library. The Symmetric Encryption and Decryption Service Flask Application is designed to provide users with a web-based interface for encrypting and decrypting data using various symmetric encryption algorithms in the cryptographic library available in python. The application offers a user-friendly platform for secure data transformation, covering multiple encryption standards and key lengths.
 
 ## How to Run
 
